@@ -10,9 +10,7 @@
 
 
  📚 I made a book of Photography and made a trailer on Youtube: 
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=S1AGVBR7mh0
-" target="_blank"><img src="http://img.youtube.com/vi/YS1AGVBR7mh0/0.jpg" 
-alt="River of Men/Rio de Homens" width="240" height="180" border="10" /></a>
+[![River of Men / Rio de Homens](http://img.youtube.com/vi/S1AGVBR7mh0/0.jpg)](http://www.youtube.com/watch?v=S1AGVBR7mh0 "River of Men / Rio de Homens")
 
 <!--
 **pablolarah/pablolarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
