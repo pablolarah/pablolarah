@@ -10,6 +10,9 @@
 
 
  📚 I made a book of Photography and made a trailer on Youtube: 
+ 
+ 
+ 
 [![River of Men / Rio de Homens](http://img.youtube.com/vi/S1AGVBR7mh0/0.jpg)](http://www.youtube.com/watch?v=S1AGVBR7mh0 "River of Men / Rio de Homens")
 
 <!--
